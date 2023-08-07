@@ -1,3 +1,6 @@
 [submodule "portfolio-website"]
 	path = portfolio-website
 	url = https://github.com/Thomas-Molen/portfolio-website
+[submodule "portfolio-data-aggregate"]
+	path = portfolio-data-aggregate
+	url = https://github.com/Thomas-Molen/portfolio-data-aggregate
